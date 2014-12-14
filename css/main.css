@@ -44,7 +44,7 @@ body {
 }
 
 .ryu-still {
-  background-image: url('../images/ryu-standing-still.png');
+  background-image: url('../images/ryu-standing-still-c.png');
 }
 
 .ryu-throwing {
@@ -74,7 +74,7 @@ body {
 }
 
 .logo {
-    background-image: url('../images/streetfighter-logo.png');
+    background-image: url('../images/streetfighter-logo-c.png');
     width: 600px;
     height: 250px; 
     background-repeat: no-repeat;
